@@ -1,2 +1,2 @@
 # example CCC
-BBB DDDD
+BBB
